@@ -3,7 +3,7 @@
     "backgroundFilename": "background1.png",
     "initialBeeBotPosition": {
       "x": 2,
-      "y": 4,
+      "y": 2,
       "dir": 0
     },
     "gridSize": 5,
